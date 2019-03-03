@@ -1,6 +1,12 @@
-# test-project
+# NOTAM Web Portal
 
-> A Vue.js project
+> This is a vue based project for a flight operation team in Republic of South Korea Air Force's (ROKAF) Flight Operation department. </br>
+This website is created to help organize the air traffic system and plan the flight training schedule. </br>
+This website is designed with Bootstrap 4 and Google's Firestore to store data in the back-end. 
+
+## Overview
+
+
 
 ## Build Setup
 
