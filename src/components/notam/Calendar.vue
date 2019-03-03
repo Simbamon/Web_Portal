@@ -3,15 +3,15 @@
     <!--HEADER-->
     <div class="d-flex justify-content-between">
     <h1 class=""><span class="badge badge-dark">
-      <i class="fas fa-calendar"> CALENDAR</i>
+      <i class="fas fa-calendar"></i> CALENDAR
       </span></h1>
     <div>
     <b-btn @click="showModal" variant="primary" data-toggle="modal" style="height: 60%; margin-top: 13px ">
-      <i class="fas fa-plus"> ADD EVENT </i>
+      <i class="fas fa-plus"></i> ADD EVENT
     </b-btn>
     <router-link to="/notam/calendar/table">
           <button type="button" class="btn btn-warning" style="height: 60%; margin-top: 13px; margin-left: 5px;">
-            <i class="fas fa-table"> EVENT TABLE</i>
+            <i class="fas fa-table"></i> EVENT TABLE
           </button>
     </router-link>  
     </div>

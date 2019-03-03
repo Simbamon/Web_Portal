@@ -2,7 +2,7 @@
   <div style="margin-left: 20px; margin-right: 20px">
     <!-- HEADER -->
     <h1>
-      <span class="badge badge-dark"><i class="fas fa-home"> HOME</i></span>
+      <span class="badge badge-dark"><i class="fas fa-home"></i> HOME</span>
     </h1>
     <hr />
     <!-- HEADER -->
@@ -77,7 +77,7 @@
       <div class="col-md-5">
         <div class="card h-100">
           <div class="card-header bg-primary text-white">
-            <i class="fas fa-chart-bar fa-lg"> Monthly Data</i>
+            <i class="fas fa-chart-bar fa-lg"></i> Monthly Data
           </div>
           <div class="card-body">
             <chart
@@ -92,7 +92,7 @@
       <div class="col-md-3">
         <div class="card h-100">
           <div class="card-header bg-info text-white">
-            <i class="fas fa-phone fa-lg"> Phone Number</i>
+            <i class="fas fa-phone fa-lg"></i> Phone Number
           </div>
           <div class="card-body">
             <li class="list-group-item">A: 123-456-7890</li>
@@ -103,7 +103,7 @@
               class="btn btn-primary float-right"
               style="margin-top: 30px;"
             >
-              <i class="fas fa-phone-square"> Load More</i>
+              <i class="fas fa-phone-square"></i> Load More
             </a>
           </div>
         </div>
@@ -111,7 +111,7 @@
       <div class="col-md-4">
         <div class="card h-100">
           <div class="card-header bg-danger text-white">
-            <i class="fas fa-check-square fa-lg"> Todo List</i>
+            <i class="fas fa-check-square fa-lg"></i> Todo List
           </div>
           <div class="card-body">
             <li class="list-group-item py-1">
@@ -178,7 +178,7 @@
       <div class="col-md-6">
         <div class="card h-100">
           <div class="card-header bg-success text-white">
-            <i class="fas fa-chart-pie fa-lg"> Department Data</i>
+            <i class="fas fa-chart-pie fa-lg"></i> Department Data
           </div>
           <div class="card-body">
             <chart
@@ -193,7 +193,7 @@
       <div class="col-md-6">
         <div class="card h-100">
           <div class="card-header bg-warning text-white">
-            <i class="fas fa-sticky-note fa-lg"> Sticky Note</i>
+            <i class="fas fa-sticky-note fa-lg"></i> Sticky Note
           </div>
           <div class="card-body">
             <div class="form-group">

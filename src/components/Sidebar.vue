@@ -9,23 +9,23 @@
       <!-- SIDEBAR PROFILE SECTION -->
       <div class="sidebar-header">
         <div id="sidebarProfile">
-          <i class="fas fa-user fa-5x"></i>
-          <h1>YOUR NAME</h1>
-          <h2>YOUR DEPARTMENT</h2>
-          <h2>YOUR JOB TITLE</h2>
+          <img src="https://ausdroid.net/wp-content/uploads/2017/05/contacts.png" style="width:100px;height:100px;" alt="Profile Picture" />
+          <h1 style="color: white">John Doe</h1>
+          <h2>Schedule Department</h2>
+          <h2>NOTAM Administrator</h2>
         </div>
       </div>
       <!-- SIDEBAR PROFILE SECTION -->
 
       <!-- NAV LIST -->
-      
+
       <ul class="list-unstyled components">
         <li>
           <router-link to="/"
             ><i class="fas fa-home fa-fw"></i> HOME
           </router-link>
         </li>
-        
+
         <li>
           <a
             data-toggle="collapse"
@@ -52,7 +52,7 @@
             </li>
           </ul>
         </li>
-        
+
         <li>
           <router-link to="/emp"
             ><i class="fas fa-users fa-fw"></i> EMPLOYEES LIST</router-link
@@ -97,13 +97,13 @@ a:focus {
 }
 #sidebarProfile h2 {
   color: #808080;
-  font-size: 10px;
+  font-size: 11px;
 }
 
 #sidebar {
   min-width: 180px;
   max-width: 180px;
-  height: 1000px;
+  height: 1300px;
   background: #343a40;
   color: #808080;
   transition: all 0.3s;

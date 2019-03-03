@@ -14,7 +14,7 @@
           </p>
           <p style="margin:7px;" class="text-muted">
           Developed in: <a href="https://codesandbox.io/" style="text-decoration: none; color: #FFFFFF;">Code Sandbox</a>
-          By: <a href="https://github.com/Simbamon" style="text-decoration: none; color: #FFFFFF;"><i class="fab fa-github"> Simbamon</i> </a>
+          By: <a href="https://github.com/Simbamon" style="text-decoration: none; color: #FFFFFF;"><i class="fab fa-github"></i> Simbamon</a>
           </p>
      </div>
   </footer>

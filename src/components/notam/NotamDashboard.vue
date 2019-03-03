@@ -3,7 +3,7 @@
     
     <!--HEADER-->
     <h1><span class="badge badge-dark">
-    <i class="fas fa-chalkboard"> DASHBOARD</i>
+    <i class="fas fa-chalkboard"></i> DASHBOARD
     </span></h1>
     <hr>
     <!--HEADER-->
@@ -13,10 +13,10 @@
     <div class="col-sm-7 py-2">
       <div class="card  h-100">
         <div class="card-header text-white bg-primary d-flex justify-content-between">
-        <h4><i class="fas fa-calendar"> NOTAM CALENDAR</i></h4>
+        <h4><i class="fas fa-calendar"></i> NOTAM CALENDAR</h4>
           <router-link to="/notam/calendar">
             <button type="button" class="btn btn-outline-light btn-sm">
-              <i class="fas fa-edit"> Edit</i>
+              <i class="fas fa-edit"></i> Edit
             </button>
           </router-link>
         </div>
@@ -29,10 +29,10 @@
     <div class="col-sm-5 py-2">
       <div class="card">
         <div class="card-header text-white bg-warning d-flex justify-content-between">
-        <h4><i class="fas fa-clipboard-list"> ROUTE LIST</i></h4>
+        <h4><i class="fas fa-clipboard-list"></i> ROUTE LIST</h4>
           <router-link to="/notam/dayview">
             <button type="button" class="btn btn-outline-light btn-sm">
-              <i class="fas fa-stopwatch"> Day View</i> 
+              <i class="fas fa-stopwatch"></i> Day View
             </button>
           </router-link>
         </div>

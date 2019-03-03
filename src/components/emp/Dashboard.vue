@@ -2,8 +2,9 @@
   <div id="dashboard">
     
     <!--HEADER-->
-    <h1><span class="badge badge-dark"><i class="fas fa-users"> Employees LIST</i></span></h1>
+    <h1><span class="badge badge-dark"><i class="fas fa-users"></i> Employees LIST</span></h1>
     <hr>
+    
     <!--HEADER-->
 
     <ul class="list-group">
@@ -13,7 +14,7 @@
         <h3>Employees</h3>
         <router-link to="/emp/new">
           <button type="button" class="btn btn-outline-light btn-sm">
-            <i class="fas fa-plus"> Add</i>
+            <i class="fas fa-plus"></i> Add
           </button>
         </router-link>
       </li>

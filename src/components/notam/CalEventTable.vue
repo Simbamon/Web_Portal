@@ -4,7 +4,7 @@
     <div class="d-flex justify-content-between">
       <h1 class="">
         <span class="badge badge-dark">
-          <i class="fas fa-table"> NOTAM TABLE</i>
+          <i class="fas fa-table"></i> NOTAM TABLE
         </span>
       </h1>
       <div>
@@ -14,7 +14,7 @@
             class="btn btn-primary"
             style="height: 60%; margin-top: 13px; margin-left: 5px;"
           >
-            <i class="fas fa-undo-alt"> GO BACK</i>
+            <i class="fas fa-undo-alt"></i> GO BACK
           </button>
         </router-link>
       </div>

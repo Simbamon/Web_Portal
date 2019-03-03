@@ -2,7 +2,7 @@
   <div id="new-employee">
   
   <!--HEADER-->
-  <h1><span class="badge badge-dark"><i class="fas fa-users"> PILOT LIST</i></span></h1>
+  <h1><span class="badge badge-dark"><i class="fas fa-users"></i> PILOT LIST</span></h1>
   <hr>
   <!--HEADER-->
 
@@ -84,16 +84,16 @@
               style="display:none"
               id="exampleFormControlFile1"
             />
-            <i class="fas fa-camera-retro"> Upload Picture</i>
+            <i class="fas fa-camera-retro"></i> Upload Picture
         </label>
         </form>
         <form @submit.prevent="saveEmployee" class="float-right">
           <div class="float-right">
             <button type="submit" class="btn btn-space btn-primary">
-              <i class="fas fa-clipboard-check"> Confirm</i>
+              <i class="fas fa-clipboard-check"></i> Confirm
             </button>
             <router-link to="/emp" class="btn btn-space btn-danger">
-              <i class="fas fa-ban"> Cancel</i>
+              <i class="fas fa-ban"></i> Cancel
             </router-link>
           </div>
         </form>

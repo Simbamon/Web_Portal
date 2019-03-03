@@ -2,7 +2,7 @@
   <div>
     <!--HEADER-->
     <h1><span class="badge badge-dark">
-    <i class="fas fa-edit"> Flight Code</i>
+    <i class="fas fa-edit"></i> Flight Code
     </span></h1>
     <hr>
     <!--HEADER-->

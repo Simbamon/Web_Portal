@@ -4,7 +4,7 @@
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
 
       <router-link to="/">
-      <b-navbar-brand ><i class="fas fa-file-alt"> Portal</i></b-navbar-brand>
+        <b-navbar-brand>NOTAM</b-navbar-brand>
       </router-link>
 
       <b-collapse is-nav id="nav_collapse">

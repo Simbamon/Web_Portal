@@ -3,12 +3,12 @@
     <!--HEADER-->
     <div class="d-flex justify-content-between">
     <h1 class=""><span class="badge badge-dark">
-      <i class="fas fa-stopwatch"> DAY VIEW</i>
+      <i class="fas fa-stopwatch"></i> DAY VIEW
       </span></h1>
     <div>
     <router-link to="/notam">
       <button type="button" class="btn btn-primary" style="height: 60%; margin-top: 13px; margin-left: 5px;">
-        <i class="fas fa-undo-alt"> GO BACK</i>
+        <i class="fas fa-undo-alt"></i> GO BACK
       </button>
     </router-link>
     </div>

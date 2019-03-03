@@ -2,7 +2,7 @@
   <div id="view-employee">
 
     <!--HEADER-->
-    <h1><span class="badge badge-dark"><i class="fas fa-users"> PILOT LIST</i></span></h1>
+    <h1><span class="badge badge-dark"><i class="fas fa-users"></i> PILOT LIST</span></h1>
     <hr>
     <!--HEADER-->
   
@@ -22,10 +22,10 @@
                   }"
                 >
                   <button type="button" class="btn btn-space btn-outline-light btn-sm">
-                    <i class="fa fa-pen"> Edit</i>
+                    <i class="fa fa-pen"></i> Edit
                   </button>
                  <button @click="deleteEmployee" class="btn btn-space btn-danger btn-sm">
-                  <i class="fas fa-trash-alt"> Delete</i>
+                  <i class="fas fa-trash-alt"></i> Delete
                   </button> 
                 </router-link>
               </div>
@@ -60,7 +60,7 @@
 
     <!--BUTTON-->
     <router-link to="/emp" class="btn btn-secondary">
-    <i class="fas fa-arrow-left"> Go Back</i>
+    <i class="fas fa-arrow-left"></i> Go Back
     </router-link>
     <!--BUTTON-->
 
