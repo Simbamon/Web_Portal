@@ -2,7 +2,8 @@
 
 > This is a vue based project for a flight operation team in Republic of South Korea Air Force's (ROKAF) Flight Operation department. </br>
 This website is created to help organize the air traffic system and plan the flight training schedule. </br>
-This website is designed with Bootstrap 4 and Google's Firestore to store data in the back-end. 
+This website is designed with Bootstrap 4 and Google's Firestore to store data in the back-end. </br></br>
+Developed in CodeSandbox: https://codesandbox.io/s/github/Simbamon/Web_Portal
 
 ## Overview
 ![capture1](https://user-images.githubusercontent.com/37096378/53695944-16376b00-3e05-11e9-8a08-d9c220fdb64e.PNG)
